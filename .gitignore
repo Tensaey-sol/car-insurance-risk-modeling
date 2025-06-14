@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+.venv/
+.env/
+.envrc
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV and data files
+*.csv
+data/
+*.png
+notebooks/figures/
+
+# Pytest cache
+.pytest_cache/
+scripts/__pycache__
+
+# MyPy cache
+.mypy_cache/
+
+# Test results
+test-results/
+
+# Local config or secrets (if applicable)
+.env
+secrets.yaml
+config.local.yaml
