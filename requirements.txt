@@ -4,3 +4,6 @@ seaborn==0.13.2
 dvc==3.60.1
 scipy==1.15.3
 statsmodels==0.14.4
+scikit-learn==1.7.0
+xgboost==3.0.2
+shap==0.48.0
