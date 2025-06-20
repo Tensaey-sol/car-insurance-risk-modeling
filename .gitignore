@@ -13,7 +13,7 @@ venv/
 # CSV and data files
 *.csv
 *.png
-*.txt
+data/raw/*.txt
 notebooks/figures/
 
 # Pytest cache
